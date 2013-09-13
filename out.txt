@@ -1,0 +1,36 @@
+the 1th point Query Result:
+795:0.503347
+328:0.659420
+982:0.716076
+the 2th point Query Result:
+728:0.759264
+802:0.794964
+946:0.812573
+the 3th point Query Result:
+46:0.696012
+31:0.706418
+94:0.709760
+the 4th point Query Result:
+464:0.560547
+385:0.593670
+601:0.666042
+the 5th point Query Result:
+806:0.616397
+475:0.680379
+762:0.687733
+the 6th point Query Result:
+305:0.654938
+708:0.676142
+520:0.736667
+the 7th point Query Result:
+69:0.656608
+577:0.660550
+452:0.668115
+the 8th point Query Result:
+100:0.582145
+679:0.670827
+106:0.696167
+the 9th point Query Result:
+372:0.617383
+2:0.826106
+187:0.859530
